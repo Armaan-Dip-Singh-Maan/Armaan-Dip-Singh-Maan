@@ -73,10 +73,10 @@ I’m **Armaan Dip Singh Maan**, a globe-trotting coder based in **Calgary, AB**
 ## 📈 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=armaandipsinghmaan&theme=dracula&column=5&margin-w=5" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Armaan-Dip-Singh-Maan&theme=dracula&column=5&margin-w=5" alt="Trophies" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=armaandipsinghmaan&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" width="450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armaandipsinghmaan&theme=dark&hide_border=true" alt="Streak Stats" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Armaan-Dip-Singh-Maan&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Armaan-Dip-Singh-Maan&theme=dark&hide_border=true" alt="Streak Stats" width="450" />
 </p>
 
 ---
