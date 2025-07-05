@@ -5,13 +5,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=FF5733&center=true&vCenter=true&width=700&lines=🚀+Hi,+I'm+Armaan+Dip+Singh+Maan;👨‍💻+Full-Stack+Dev+%7C+AI+Explorer;💡+Turning+Ideas+Into+Reality" alt="Typing Animation" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Armaan-Dip-Singh-Maan&color=brightgreen" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/%.2F/year-149%2B-ff69b4?style=for-the-badge" alt="Commits" />
+  <img src="https://img.shields.io/github/commit-activity/m/Armaan-Dip-Singh-Maan/Armaan-Dip-Singh-Maan?style=for-the-badge" alt="Commit Activity" />
 </p>
-
----
 
 ## 👋 About Me
 
