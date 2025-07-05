@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=armaandipsinghmaan&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Armaan-Dip-Singh-Maan&color=brightgreen" alt="Profile Views" />
   <img src="https://img.shields.io/badge/%.2F/year-149%2B-ff69b4?style=for-the-badge" alt="Commits" />
 </p>
 
